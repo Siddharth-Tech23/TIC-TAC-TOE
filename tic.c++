@@ -1,4 +1,4 @@
-// C++ program to implement tic tac toe game 
+// C++ program to implement tic tac toe game
 #include <iostream> 
 using namespace std; 
 
