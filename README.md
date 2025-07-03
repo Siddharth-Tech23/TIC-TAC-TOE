@@ -16,3 +16,25 @@ Player 1 (X) - Player 2 (O)
 7 | 8 | 9
 
 Player 1, enter a number:
+
+---
+
+## 🚀 Features
+
+- 🎮 Two-player turn-based gameplay
+- ✅ Win detection for rows, columns, and diagonals
+- 📝 Draw detection when the board is full
+- 🔁 Option to restart the game after completion
+- 📦 Clean and simple console interface
+
+---
+
+## 🛠️ Tech Stack
+
+- **C++ (Standard Library)**
+- Console I/O for UI and interaction
+
+---
+
+## 📂 Project Structure
+
