@@ -6,6 +6,8 @@ This classic two-player game allows players to take turns marking positions on a
 ---
 
 ## 📺 Game Preview
+ TIC-TAC-TOE GAME    *
+
 Tic-Tac-Toe Game
 Player 1 (X) - Player 2 (O)
 
